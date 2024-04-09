@@ -1,0 +1,6 @@
+{
+    "method_peaks": "elgendi",
+    "method_fixpeaks": "None",
+    "PPG_Peaks": "[ 258  474  695  940 1172 1415 1648 1875 2095 2331]",
+    "sampling_rate": "250"
+}
